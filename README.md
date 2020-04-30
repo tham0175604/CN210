@@ -53,7 +53,7 @@
   
   #### งานครั้งที่ 7
    * [CLIP7(Youtube)](https://www.youtube.com/watch?v=f5RM9AAuccY)
-     ![](121.jpeg) 
+     ![](121.jpg) 
   
   ++ คำอธิบาย : คลิปนี้อธิบายเกี่ยวกับ Pipelining ว่ามันคืออะไร รวมถึงข้อดี ปัญหาของ Pipelining การทำงาน ความแตกต่างของการทำงาน โดย Pipelining 
                เป็นหน่วยความจำที่อ่านคำสั่งต่างๆ จนจบคำสั่งคล้าย Register แต่ต่างกันตรงที่ Pipelining เก็บค่าได้มากกว่า Register แต่ทำงานได้ช้ากว่า Register 
