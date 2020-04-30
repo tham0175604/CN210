@@ -9,7 +9,7 @@
 #### ส่งการบ้านครั้งที่ 1
   ![](Clip1.png)
 
-  * [CLIP1(Youtube)](https://youtu.be/qxfaD4DFBt8)
+  * [CLIP1(Youtube)](https://www.youtube.com/watch?v=9prW90Cxy1k)
     
   ** คำอธิบาย : คลิปนี้จะอธิบายเกี่ยวกับ MIPs โดย MIPS เป็นหน่วยประมวลผลที่มีความจำ 32 bits ออกแบบโดยบริษัท MIPS มี 3 รูปแบบ คือ R-Format,I-Format และ
                J-Format ซึ่งจะสาธิตการใช้ MIPS ในการคำนวณซึ่งจะใช้ R-Format ในการเก็บค่า ซึ่งฟังก์ชั่นในการคำนวณที่สาธิตคือ ฟังก์ชัน add ซึ่ง R-Format จะประกอบ
