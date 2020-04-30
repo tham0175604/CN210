@@ -53,6 +53,7 @@
   
   #### งานครั้งที่ 7
    * [CLIP7(Youtube)](https://www.youtube.com/watch?v=f5RM9AAuccY)
+   
      ![](121.jpg) 
   
   ++ คำอธิบาย : คลิปนี้อธิบายเกี่ยวกับ Pipelining ว่ามันคืออะไร รวมถึงข้อดี ปัญหาของ Pipelining การทำงาน ความแตกต่างของการทำงาน โดย Pipelining 
