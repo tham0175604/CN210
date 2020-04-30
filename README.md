@@ -30,7 +30,8 @@
 #### งานครั้งที่ 4
   * [CLIP4(Youtube)](https://www.youtube.com/watch?v=nuxHZJcRDfg)
   
-  
+    ![](lw.jpg)
+    
   ++ คำอธิบาย : คลิปนี้จะอธิบายเกี่ยวกับการทำงานของคำสั่ง Load Word ในรูปแบบ Multicycle โดยเริ่มต้นจากการ Fetch จะเป็นการส่งค่าให้ register และส่งค่าให้ ALU 
                เพื่อ +4 และทำstepต่อไป จากนั้นก็ทำ Fetch+1 เพื่อเก็บค่า register 2 ตัว และส่งเข้าไปที่ ALUOut จากนั้นทำการ Mem1 เป็นการส่งค่าจาก Register 
                ไปเข้า ALU เพื่อทำคำสั่งแล้วส่งให้ ALUOut หลังจากนั้นก็ส่งเข้า Memory data register
@@ -38,7 +39,8 @@
 #### งานครั้งที่ 5
   * [CLIP5(Youtube)](https://www.youtube.com/watch?v=deR_ZT8uqBw&t=15s)
   
-  
+    ![](beq.jpg)
+    
   ++ คำอธิบาย : คลิปนี้อธิบายการทำงานของคำสั่ง Branch On Equal หรือ Beq ใน Multicycle โดยจะเริ่มต้นจากการ Fetch จะเป็นการส่งค่าให้ register และส่งค่า
                ให้ ALU เพื่อ +4 และพร้อมทำขั้นตอนต่อไป เสร็จแล้วก็ถอดรหัสเพื่อเก็บค่าเข้า register 2 ตัว และอ่านค่า offset+pc จากนั้นก็จะส่งไปที่ ALUOut 
                หลังจากนั้นทำการเช็ค register 2 ตัวนี้ว่าเท่ากันมั้ย ถ้าเท่ากันจะส่งให้ ALUOut แต่ถ้าไม่เท่ากันก็ส่งให้ PC แทน
@@ -46,6 +48,7 @@
 #### งานครั้งที่ 6
   * [CLIP6(Youtube)](https://www.youtube.com/watch?v=cTYj0MKnsEo&t=5s)
   
+    ![](r ty.jpg)
   
   ++ คำอธิบาย : คลิปนี้อธิบายเกี่ยวกับการทำงาน State Machine ของ r-format ใน cpu รูปแบบ Multicycle โดยจะส่วนประกอบของการทำงานจะมีั้ง Fetch, 
                Reg/Dec, Exec, Wr โดยการทำงานจะใช้ MemRead, MemWrite, lorD, IRWrite, ALUSrcA, ALUSrcB, ALUOP, PCWrite, PCSource, RegWrite, 
