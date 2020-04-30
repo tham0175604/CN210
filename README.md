@@ -20,7 +20,7 @@
 
   ![](Clip2.png)
   
-  * [CLIP2(Youtube)](https://youtu.be/QzaD13TMT6o)
+  * [CLIP2(Youtube)](https://www.youtube.com/watch?v=f3IktFSWI3Y)
   
   ** คำอธิบาย : คลิปนี้จะอธิบายเกี่ยวับการทำงานของ cpu โดยการทำงานจะเริ่มต้นเมื่อเปิดสวิซท์ จากนั้นมันจะอ่านคำสั่งที่ตำแหน่ง 0 แล้วทำงาน ไม่ว่าจะเป็นการ jump คำสั่ง 
                add คำสั่ง load คำสั่ง store ทุกอย่างจะรันเป็นขั้นเป็นตอนตามรูป I-Format หรือ R-Format หรือ J-Format ขึ้นอยู่กับ opcode ของคำสั่ง
@@ -29,7 +29,7 @@
 
   ![](Clip3.png)
   
-  * [CLIP3(Youtube)](https://youtu.be/hyol9zuLm_Q)
+  * [CLIP3(Youtube)](https://www.youtube.com/watch?v=BW_B_ZATatA)
   
   ** คำอธิบาย : คลิปนี้จะอธิบายเกี่ยวกับความแตกต่างระหว่าง Single Cycle กับ Multicycle โดยที่เห็นได้ชัดคือ รอบการทำงานของ Multicycle จะมากกว่า Single 
                Cycle จะมีรูปแบบสถาปัตยกรรมที่ต่างกัน Multicycle จะมี ALU น้อยกว่า Single Cycle แต่จะมี Mux มากกว่า Single Cycle และที่เห็นได้ชัดเจนที่สุดคือ 
@@ -39,7 +39,7 @@
 
   ![](Clip4.png)
   
-  * [CLIP4(Youtube)](https://youtu.be/hsoW6MwFPeI)
+  * [CLIP4(Youtube)](https://www.youtube.com/watch?v=nuxHZJcRDfg)
   
   ** คำอธิบาย : คลิปนี้จะอธิบายเกี่ยวกับการทำงานของคำสั่ง Load Word ในรูปแบบ Multicycle โดยเริ่มต้นจากการ Fetch จะเป็นการส่งค่าให้ register และส่งค่าให้ ALU 
                เพื่อ +4 และพร้อมทำขั้นตอนต่อไป เสร็จแล้วก็ทำการ Fetch+1 เพื่อเก็บค่าเข้า register 2 ตัว และส่งเข้าไปที่ ALUOut หลังจากนั้นทำการ Mem1 เป็นการส่ง
