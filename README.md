@@ -24,7 +24,7 @@
   * [CLIP3(Youtube)](https://www.youtube.com/watch?v=BW_B_ZATatA)
   
   
-  ** คำอธิบาย : คลิปนี้จะอธิบายเกี่ยวกับความแตกต่างของ Single Cycle กับ Multicycle โดยสิ่งที่เห็นได้ชัดเจนคือ รอบการทำงานของ Multicycle มากกว่า Single 
+  ++ คำอธิบาย : คลิปนี้จะอธิบายเกี่ยวกับความแตกต่างของ Single Cycle กับ Multicycle โดยสิ่งที่เห็นได้ชัดเจนคือ รอบการทำงานของ Multicycle มากกว่า Single 
                Cycle เพราะมีรูปแบบสถาปัตยกรรมต่างกัน Multicycle มี Mux มากกว่า Single Cycle แต่มี ALU น้อยกว่า Single Cycle และสิ่งที่เห็นได้ชัดเจนที่สุด                      คือ Multicycle ใช้เวลาทำคำสั่งหนึ่งๆได้น้อยกว่า Single Cycle
   
 #### งานครั้งที่ 4
