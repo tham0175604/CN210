@@ -6,7 +6,8 @@
 
 #### งานครั้งที่ 1
   * [CLIP1(Youtube)](https://www.youtube.com/watch?v=9prW90Cxy1k)
-   ![](  ) 
+  
+    ![](add.PNG) 
     
   ++ คำอธิบาย : คลิปนี้จะอธิบายเกี่ยวกับ MIPs โดย MIPS เป็นหน่วยประมวลผล 32 bits ออกแบบโดยบริษัท MIPS มี 3 แบบ คือ R-Format,I-Format และ
                J-Format ซึ่งการใช้ MIPS ในการคำนวณซึ่งจะใช้ R-Format ในการเก็บค่า ซึ่งฟังก์ชั่นในการคำนวณคือ ฟังก์ชัน add ซึ่ง R-Format มี 6 ส่วน
@@ -16,13 +17,15 @@
 #### งานครั้งที่ 2 
   * [CLIP2(Youtube)](https://www.youtube.com/watch?v=f3IktFSWI3Y)
   
-  
+    ![](Mips.jpg)
+    
   ++ คำอธิบาย : คลิปนี้อธิบายหลักการทำงานของ cpu จากนั้นมันจะอ่านคำสั่งที่ตำแหน่ง 0 แล้วทำงาน ไม่ว่าจะเป็นการที่ jump คำสั่ง add คำสั่ง load คำสั่ง store 
                ทุกอย่างจะรันเป็นขั้นตอนตามภาษาที่ยกตัวอย่างคือ Java ว่าเป็น I-Format หรือ R-Format หรือ J-Format ขึ้นอยู่กับ opcode ว่าให้ทำอะไร
   
 #### งานครั้งที่ 3
   * [CLIP3(Youtube)](https://www.youtube.com/watch?v=BW_B_ZATatA)
   
+    ![](sig multi.jpg)
   
   ++ คำอธิบาย : คลิปนี้จะอธิบายเกี่ยวกับความแตกต่างของ Single Cycle กับ Multicycle โดยสิ่งที่เห็นได้ชัดเจนคือ รอบการทำงานของ Multicycle มากกว่า Single 
                Cycle เพราะมีรูปแบบสถาปัตยกรรมต่างกัน Multicycle มี Mux มากกว่า Single Cycle แต่มี ALU น้อยกว่า Single Cycle และสิ่งที่เห็นได้ชัดเจนที่สุด                      คือ Multicycle ใช้เวลาทำคำสั่งหนึ่งๆได้น้อยกว่า Single Cycle
