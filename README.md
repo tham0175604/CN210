@@ -41,7 +41,7 @@
   
 #### งานครั้งที่ 5
   * [CLIP5(Youtube)](https://www.youtube.com/watch?v=deR_ZT8uqBw&t=15s)
-  
+ 
     ![](beq.jpg)
     
   ++ คำอธิบาย : คลิปนี้อธิบายการทำงานของคำสั่ง Branch On Equal หรือ Beq ใน Multicycle โดยจะเริ่มต้นจากการ Fetch จะเป็นการส่งค่าให้ register และส่งค่า
